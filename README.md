@@ -1,2 +1,1 @@
-# FurSign-
-An online management information system that features customized furniture designs
+FurSign is a full-stack web application designed for customizing, ordering, and tracking bespoke furniture. It offers real-time 3D previews, rule-based design suggestions, secure user authentication with role-based access, and PDF export capabilities. The project's vision is to become a leading platform in the custom furniture industry by simplifying the design and procurement process through technology, catering to the growing demand for personalized home furnishings.
