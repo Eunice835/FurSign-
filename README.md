@@ -2,8 +2,7 @@
 The full project folder with all assets can be downloaded here:  
 [Download Project Folder](https://drive.google.com/file/d/1e0oB89z3VJ_l7Y5viGtXaXrXBUPgIq2V/view?usp=sharing)
 
-Preview images:  
-![Screenshot](https://drive.google.com/drive/folders/1FjLi4ohV43m52G0lNITndNqsPsSge65B?usp=sharing)
+Preview images can be viewed here: [Open folder](https://drive.google.com/drive/folders/1FjLi4ohV43m52G0lNITndNqsPsSge65B?usp=sharing)
 
 # FurSign - Furniture Customization Web Application
 
